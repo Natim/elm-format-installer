@@ -77,7 +77,7 @@ with codecs.open(os.path.join(HERE, "CONTRIBUTORS.rst"), encoding="utf-8") as f:
 
 setup(
     name="elm-format",
-    version="0.8.1.0",
+    version="0.8.1.1",
     description="elm-format installer",
     long_description=README + "\n\n" + CHANGELOG + "\n\n" + CONTRIBUTORS,
     license="Apache License (2.0)",
