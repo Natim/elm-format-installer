@@ -1,0 +1,6 @@
+- id: elm-format
+  name: elm-format
+  description: Make sure the code is correctly formatted.
+  entry: elm-format --yes
+  language: python
+  files: '.*\.elm'
